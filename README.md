@@ -19,7 +19,7 @@ An efficient, fully local Retrieval-Augmented Generation (RAG) application that 
 Because this project uses a heavy, running it locally requires a high-end GPU. We recommend using the provided notebook on Google Colab or Kaggle.
 
 1. **Open the Notebook**: 
-   [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/Mariam-Alashmawy/Mistral-RAG-Local-PDF-AI-Assistant/main/custom-pdf-ai-assistant.ipynb)
+   [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/Mariam-Alashmawy/Mistral-RAG-PDF-AI-Assistant/main/custom-pdf-ai-assistant.ipynb)
 2. **Set Hardware**: Ensure the environment is set to **GPU (T4 or higher)**.
 3. **Configure**: Insert your `NGROK_TOKEN` when prompted in the code.
 4. **Run All**: Execute all cells to launch the FastAPI backend and the Streamlit frontend.
