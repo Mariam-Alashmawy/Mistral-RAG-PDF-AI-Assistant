@@ -1,4 +1,4 @@
-# Mistral-RAG-Local-PDF-AI-Assistant
+# Mistral-RAG-PDF-AI-Assistant
 
 An efficient, fully local Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions about their content. The system uses the all-MiniLM-L6-v2 model from sentence-transformers to generate text embeddings, a fast FAISS vector index for document retrieval, and the Mistral-Nemo-Instruct model for text generation, served via a FastAPI backend and a clean Streamlit user interface.
 
